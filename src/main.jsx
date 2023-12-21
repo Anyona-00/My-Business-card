@@ -19,7 +19,7 @@ function Card (){
 
       <Footer />
       
-      <h1>hhjjjkjij</h1>
+      
 
     </div>
   )
