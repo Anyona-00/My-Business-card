@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(75, 75, 75);
+    color: white;
+}
+
+.pic{
+    height: 20rem;
+    width: 20rem;
+}
