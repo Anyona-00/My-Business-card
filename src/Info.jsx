@@ -3,9 +3,9 @@ import Pic from './profile-pic.jpg';
 
 function Info(){
     return(
-        <div>
+        <div className='info'>
         <img src={Pic} alt="pprofile pic" className='pic' />
-        <h1>Shadrack Anyona</h1>
+        <h1 className='name'>Shadrack Anyona</h1>
         <h3>FrontEnd Developer</h3>
         <a href="https://anyona-00.github.io/Personal-Portfolio/">Portfolio</a>
         <div className="btn">

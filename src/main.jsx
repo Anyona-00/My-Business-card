@@ -10,7 +10,7 @@ import './index.css'
 function Card (){
   return(
     <div className='card'>
-
+<div className="inner-card">
       <Info />
 
       <About />
@@ -18,7 +18,7 @@ function Card (){
       <Interests />
 
       <Footer />
-      
+      </div>
       
 
     </div>
