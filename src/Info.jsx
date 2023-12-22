@@ -6,11 +6,11 @@ function Info(){
         <div className='info'>
         <img src={Pic} alt="pprofile pic" className='pic' />
         <h1 className='name'>Shadrack Anyona</h1>
-        <h3>FrontEnd Developer</h3>
-        <a href="https://anyona-00.github.io/Personal-Portfolio/">Portfolio</a>
-        <div className="btn">
-            <button>Email</button>
-            <button>Email</button>
+        <h3 className='work'>FrontEnd Developer</h3>
+        <a href="https://anyona-00.github.io/Personal-Portfolio/"className='portfolio' >Anyona.website</a>
+        <div className="button-container">
+            <button className='btn'>Email</button>
+            <button className='btn'>LinkedIn</button>
         </div>
         </div>
     )

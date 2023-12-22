@@ -9,7 +9,7 @@ import GitHub from './GitHub Icon.png'
 
   function Footer(){
     return(
-       <div>
+       <div className='footer'>
 <img src={Twiter} alt="Twiter icon" />
 <img src={Facebook} alt="Facebook icon" />
 <img src={Instagram} alt="Instagram icon" />
